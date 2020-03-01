@@ -35,7 +35,7 @@ namespace FirebaseConsoleDotNet
         {
             #region One
             //  Instanciating with base URL
-            FirebaseDB firebaseDB = new FirebaseDB("https://admob-app-id-9830940413.firebaseio.com/");
+            FirebaseDB firebaseDB = new FirebaseDB("https://your_app_id.firebaseio.com/");
             // Referring to Node with name "Teams"  
             FirebaseDB firebaseDBTeams = firebaseDB.Node("Teams");
 
