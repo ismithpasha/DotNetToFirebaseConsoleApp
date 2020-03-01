@@ -1,0 +1,41 @@
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.deps.json
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.json
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.dev.json
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.dll
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.pdb
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csprojResolveAssemblyReference.cache
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csproj.CoreCompileInputs.cache
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfoInputs.cache
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfo.cs
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+E:\FloraProjects\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.deps.json
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.json
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.dev.json
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.dll
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.pdb
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfo.cs
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csproj.CopyComplete
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+D:\DEVELOPMENT\DOT NET\RND\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.deps.json
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.json
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.runtimeconfig.dev.json
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.dll
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\bin\Debug\netcoreapp2.0\FirebaseDotNet.pdb
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csprojAssemblyReference.cache
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.AssemblyInfo.cs
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.csproj.CopyComplete
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.dll
+D:\DEVELOPMENT\DOT NET\GitPrivate\Firebase\FirebaseConsoleDotNet\FirebaseConsoleDotNet\obj\Debug\netcoreapp2.0\FirebaseConsoleDotNet.pdb
